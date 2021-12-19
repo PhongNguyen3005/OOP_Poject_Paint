@@ -54,7 +54,7 @@ namespace ConsoleApplication8
                 }
                 Console.WriteLine();
             }
-            Console.ReadKey();
+ 
         }
         ~Circle() { }
     }

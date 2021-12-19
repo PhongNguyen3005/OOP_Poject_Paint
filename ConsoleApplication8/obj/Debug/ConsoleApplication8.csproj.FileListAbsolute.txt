@@ -4,3 +4,6 @@ c:\users\asus\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleA
 c:\users\asus\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
 c:\users\asus\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
 c:\users\asus\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\Users\asus\Documents\GitHub\OOP_Poject_Paint\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\asus\Documents\GitHub\OOP_Poject_Paint\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\asus\Documents\GitHub\OOP_Poject_Paint\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
